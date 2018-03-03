@@ -13,4 +13,4 @@ public class MainActivity extends AppCompatActivity {
 }
 
 
-//i hope this works
+//i killed the gitignore
